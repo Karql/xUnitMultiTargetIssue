@@ -1,0 +1,1 @@
+Sample repo for: https://github.com/xunit/visualstudio.xunit/issues/336
