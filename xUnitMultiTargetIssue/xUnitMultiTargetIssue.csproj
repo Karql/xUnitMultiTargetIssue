@@ -4,7 +4,7 @@
     <TargetFrameworks>net472;net6.0</TargetFrameworks>
     <TargetFramework Condition="'$(OS)' != 'Windows_NT'">net6.0</TargetFramework>
     <Nullable>enable</Nullable>
-
+    <LangVersion>10.0</LangVersion>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
